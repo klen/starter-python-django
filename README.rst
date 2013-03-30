@@ -1,0 +1,58 @@
+Starter.Python-django
+#####################
+
+Starter_ template.
+
+python-django -- Short description.
+
+.. contents::
+
+
+Requirements
+=============
+
+- python >= 2.6
+- starter >=0.1.0
+
+
+Installation
+=============
+
+**Python-django** should be installed using pip: ::
+
+    pip install python-django
+
+
+Usage
+=====
+
+
+Bug tracker
+===========
+
+If you have any suggestions, bug reports or
+annoyances please report them to the issue tracker
+at https://github.com/Kirill Klenov/python-django/issues
+
+
+Contributing
+============
+
+Development of starter happens at github: https://github.com/Kirill Klenov/python-django
+
+
+Contributors
+=============
+
+* Kirill Klenov_ (Kirill Klenov)
+
+
+License
+=======
+
+Licensed under a `BSD license`_.
+
+
+.. _BSD license: http://www.linfo.org/bsdlicense.html
+.. _Kirill Klenov: http://Kirill Klenov.github.com/
+.. _Starter: http://github.com/klen/starter
