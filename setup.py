@@ -38,7 +38,7 @@ for root, dirs, files in walk(template_path):
 
 setup(
     name="starter.templates.python-django",
-    version="0.1.0",
+    version="0.1.1",
     license="BSD",
     description=read('DESCRIPTION'),
     long_description=read('README.rst'),
