@@ -38,7 +38,7 @@ at https://github.com/Kirill Klenov/python-django/issues
 Contributing
 ============
 
-Development of starter happens at github: https://github.com/Kirill Klenov/python-django
+Development of starter happens at github: https://github.com/klen/starter-python-django
 
 
 Contributors
@@ -54,5 +54,5 @@ Licensed under a `BSD license`_.
 
 
 .. _BSD license: http://www.linfo.org/bsdlicense.html
-.. _Kirill Klenov: http://Kirill Klenov.github.com/
+.. _Kirill Klenov: http://klen.github.com/
 .. _Starter: http://github.com/klen/starter
