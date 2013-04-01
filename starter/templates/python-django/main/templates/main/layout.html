@@ -12,7 +12,7 @@
         </div>
         <div class="z-grid_column z-grid-4">
             {% if request.user.is_authenticated %}
-                <a href="{% url logout %}">logout</a>
+                <a href="{% url "logout" %}">logout</a>
             {% endif %}
         </div>
     </div>

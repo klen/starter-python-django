@@ -22,10 +22,13 @@ def read(path):
 package_data = []
 template_path = op.join('starter', 'templates', 'python-django')
 for root, dirs, files in walk(template_path):
-    if "/.env" in root:
+    if "/.env" in root or '/.tox' in root:
         continue
 
     for fname in filter(lambda f: not f.endswith('.pyc'), files): # nolint
+        if fname in ('django_master.sqlite', 'tox.ini'):
+            continue
+
         fpath = op.join(root, fname)
         package_data.append(op.relpath(
             fpath,

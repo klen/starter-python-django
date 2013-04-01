@@ -1,9 +1,9 @@
-Starter.Python-django
-#####################
+starter.templates.python-django
+###############################
 
 Starter_ template.
 
-python-django -- Short description.
+python-django -- Django project template.
 
 .. contents::
 
@@ -20,7 +20,7 @@ Installation
 
 **Python-django** should be installed using pip: ::
 
-    pip install python-django
+    pip install starter.templates.python-django
 
 
 Usage
