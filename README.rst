@@ -38,13 +38,13 @@ at https://github.com/Kirill Klenov/python-django/issues
 Contributing
 ============
 
-Development of starter happens at github: https://github.com/Kirill Klenov/python-django
+Development of starter happens at github: https://github.com/klen/starter-python-django
 
 
 Contributors
 =============
 
-* Kirill Klenov_ (Kirill Klenov)
+* `Kirill Klenov`_ (Kirill Klenov)
 
 
 License
