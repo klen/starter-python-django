@@ -44,7 +44,7 @@ Development of starter happens at github: https://github.com/Kirill Klenov/pytho
 Contributors
 =============
 
-* Kirill Klenov_ (Kirill Klenov)
+* `Kirill Klenov`_ (Kirill Klenov)
 
 
 License
